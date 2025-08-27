@@ -1,6 +1,12 @@
 "use client"
 
-import Lottie from "lottie-react";
+// Hapus baris ini:
+// import Lottie from "lottie-react";
+
+import dynamic from "next/dynamic";
+
+// Gunakan dynamic import dengan ssr: false untuk memuat Lottie
+const Lottie = dynamic(() => import("lottie-react"), { ssr: false });
 
 const AnimationLottie = ({ animationPath, width }) => {
   const defaultOptions = {
