@@ -8,10 +8,10 @@ export const personalData = {
   address: 'Jl Gunung Sahari 3 No 12, Jakarta Pusat, Indonesia',
   github: 'https://github.com/barrujamisrg',
   facebook: 'https://www.facebook.com/jami.siregar/',
-  linkedIn: 'https://www.linkedin.com/in/barru-jami-siregar/',
+  linkedIn: 'www.linkedin.com/in/barru-jami-siregar-423abb318/',
   twitter: 'https://twitter.com/jamisrg',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  stackOverflow: 'https://stackoverflow.com/users/31362676/el-pacho',
+  leetcode: "https://leetcode.com/u/barrujamisrg/",
+  devUsername: "barrujamisrg",
   resume: "https://drive.google.com/file/d/1r519FcdGqL_gXUZofGwsuGKZresAtAil/view?usp=share_link"
 }

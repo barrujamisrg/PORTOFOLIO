@@ -4,8 +4,8 @@ export const contactsData = {
     address: 'Jl Gunung Sahari 3 No 12, Jakarta Pusat, Indonesia',
     github: 'https://github.com/barrujamisrg',
     facebook: 'https://www.facebook.com/jami.siregar/',
-    linkedIn: 'https://www.linkedin.com/in/barru-jami-siregar/',
+    linkedIn: 'https://www.linkedin.com/in/barru-jami-siregar-423abb318/',
     twitter: 'https://twitter.com/jamisrg',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    stackOverflow: 'https://stackoverflow.com/users/31362676/el-pacho',
+    devUsername: "barrujamisrg"
 }
