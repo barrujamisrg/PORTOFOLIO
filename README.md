@@ -4,7 +4,7 @@
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/barrujamisrg/PORTOFOLIO)
 
 ---
 
@@ -16,7 +16,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![](./public/image/screen-demo.png)
 
 ## View live preview [here](https://barrujamisrg.netlify.app).
 
